@@ -1,0 +1,1 @@
+Exercício de criação de uma página do starbucks, visando melhorar minhas habilidades com CSS Grid Layoult
